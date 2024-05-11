@@ -164,3 +164,11 @@ button:active{
         opacity: 1;
     }
 }
+
+
+@media only screen and (max-width:780px) {
+    .main-container{
+        width: 70vh;
+        height: 48vh;
+    }
+}
